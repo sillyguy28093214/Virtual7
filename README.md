@@ -2,7 +2,7 @@
 
 Virtual Machine running on a Web browser.
 
-![alt screenshot](https://raw.githubusercontent.com/lrusso/VirtualXP/master/VirtualXP.png)
+![alt screenshot](https://raw.githubusercontent.com/sillyguy28093214/VirtualXP/master/VirtualXP.png)
 
 ## Web
 
